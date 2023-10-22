@@ -1,6 +1,6 @@
 ## BarrierBuddy
 
-### Desciption 
+### Description 
 Traveling to a foreign country is an empowering experience, but it doesn’t always feel like it when you can't understand a word in sight. This can be overwhelming, but not anymore! BarrierBuddy is designed for all of the tough situations of not knowing what to say or how much to pay. It's equipped with a camera scanner for signs, menus, and other written text and a currency converter to change between currencies so you know just how much items cost. It takes care of the confusion so that you can freely experience all the world has to offer. 
 
 ### Inspiration 
